@@ -6,7 +6,7 @@ Merancang sebuah protokol untuk <br>
 Kemudian, jalankan file server.py dengan python server.py <br>
 
 ### a. Meletakkan File <br>
-<img width="292" alt="nomor 1a" src="https://user-images.githubusercontent.com/36990542/77331468-58568600-6d53-11ea-85f1-d27d1965cbf1.png">
+<img width="296" alt="nomor 1b" src="https://user-images.githubusercontent.com/36990542/77332259-6bb62100-6d54-11ea-9672-4e64f956d78d.png">
 File diatas akan meng-upload file upload.txt yang ada di direktori asal script menuju folder "memory".<br>
 (keadaan folder memory sebelum script di atas dijalankan)<br>
 <img width="641" alt="nomor 1a1" src="https://user-images.githubusercontent.com/36990542/77331947-fe09f500-6d53-11ea-9f52-d3b303ddba07.png">
@@ -14,7 +14,7 @@ File diatas akan meng-upload file upload.txt yang ada di direktori asal script m
 <img width="636" alt="nomor 1a2" src="https://user-images.githubusercontent.com/36990542/77331970-05310300-6d54-11ea-855e-527b37375c29.png">
 
 ### b. Mengambil File<br>
-<img width="296" alt="nomor 1b" src="https://user-images.githubusercontent.com/36990542/77332259-6bb62100-6d54-11ea-9672-4e64f956d78d.png">
+<img width="292" alt="nomor 1a" src="https://user-images.githubusercontent.com/36990542/77331468-58568600-6d53-11ea-85f1-d27d1965cbf1.png">
 File diatas akan men-download file download.pdf yang ada di direktori memory menuju direktori file di atas berada<br>
 (keadaan folder memory sebelum script di atas dijalankan)<br>
 <img width="960" alt="nomor 1b1" src="https://user-images.githubusercontent.com/36990542/77332499-b46dda00-6d54-11ea-90db-a158e7aa3399.png">
