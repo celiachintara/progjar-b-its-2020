@@ -4,9 +4,10 @@ Merancang sebuah protokol untuk <br>
 <img width="960" alt="nomor 1" src="https://user-images.githubusercontent.com/36990542/77330805-6fe13f00-6d52-11ea-9dfe-b577bd05ee80.png">
 (potongan source code server.py) <br>
 Kemudian, jalankan file server.py dengan python server.py <br>
-### a. Meletakkan File<br>
+
+### a. Meletakkan File <br>
 <img width="292" alt="nomor 1a" src="https://user-images.githubusercontent.com/36990542/77331468-58568600-6d53-11ea-85f1-d27d1965cbf1.png">
-File diatas akan meng-upload file upload.txt yang ada di direktori asal script menuju folder "memory"<br>
+File diatas akan meng-upload file upload.txt yang ada di direktori asal script menuju folder "memory".<br>
 (keadaan folder memory sebelum script di atas dijalankan)<br>
 <img width="641" alt="nomor 1a1" src="https://user-images.githubusercontent.com/36990542/77331947-fe09f500-6d53-11ea-9f52-d3b303ddba07.png">
 (keadaan folder memory setelah script di atas dijalankan)<br>
@@ -32,7 +33,7 @@ Hasil setelah dijalankan<br>
 
 ## Nomor 3
 Penggunaan format JSON pada fitur Menampilkan List File<br>
-<img width="340" alt="nomor 3" src="https://user-images.githubusercontent.com/36990542/77333804-8a1d1c00-6d56-11ea-95fe-0e9026408113.png">
+<img width="340" alt="nomor 3" src="https://user-images.githubusercontent.com/36990542/77333804-8a1d1c00-6d56-11ea-95fe-0e9026408113.png"><br>
 Hasilnya yaitu sebagai berikut<br>
 <img width="452" alt="nomor 1c1" src="https://user-images.githubusercontent.com/36990542/77333554-301c5680-6d56-11ea-9355-fac7c1379b88.png">
 
