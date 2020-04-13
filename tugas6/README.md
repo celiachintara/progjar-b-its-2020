@@ -1,4 +1,4 @@
-# TUGAS 7
+# TUGAS 6
 
 Jalankan file server_thread_http.py <br>
 <img width="960" alt="1  server" src="https://user-images.githubusercontent.com/36990542/79086187-65203580-7d65-11ea-9be2-fe83172d90c3.png">
